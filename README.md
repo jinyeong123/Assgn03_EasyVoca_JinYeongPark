@@ -4,7 +4,7 @@
 Student name: JinYeong Park
 Student number: 14204097
 Tutorial no: Lab. 04 
-Tutor name: Al-Doghman
+Tutor name: Marwa Mustafa
 
 [Application Description}
 
